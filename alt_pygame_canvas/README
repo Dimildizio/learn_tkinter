@@ -1,0 +1,8 @@
+An attempt to use tkinter instead of pygame to output graphics to the screen.
+Appeared to be possible but don't see any sense in it.
+Controls:
+
+    W - up
+    S - down
+    A - left
+    D - right
